@@ -104,16 +104,17 @@ button#equal {
 /* light theme */
 
 .calculator {
-    background-color: #fff;
+    background-color: #ffffff;
+   
 }
 
 .calculator #display {
-    color: #fff;
+    color: #1d1d1d;
 }
 
 .calculator button#clear {
-    background-color: #fff;
-    color: #fff;
+    background-color: #1d1d1d;
+    color: #ffffff;
 }
 
 .calculator button.btn-number {
